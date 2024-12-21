@@ -1,0 +1,156 @@
+.background{
+    width:100%;
+    height:192px;   
+}
+.box h1{
+    font-family:cursive;
+    color:white;
+    position: absolute;
+    top: 12%;
+    left: 40%;     
+}
+.RD1{
+    font-family:sans-serif ;
+    position: fixed;
+    top: 47%;
+    left: 39%;
+    border-radius: 4px;
+    transition: border-radius 0.5s ease-in;
+}
+.RN1{
+    font-family:sans-serif ;
+    position: fixed;
+    top: 47%;
+    left: 52%;
+    border-radius: 4px;
+    transition: border-radius 0.5s ease-in;
+}
+#RL{
+    position: fixed;
+    border: solid #32a1ce;
+    border-radius:50px;
+    padding:3%; 
+    width:20%;
+    height:20%;
+    left:35%;
+    top:27%;
+}
+button {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #fff;
+    background-color: rgb(0, 200, 255);
+    box-shadow: 0 4px 8px 0 rgba(39, 153, 214, 0.35);
+    cursor: pointer;
+    transition: border-radius 0.5s ease-in;
+  }
+  .RD1 button:hover {
+    background: rgb(77, 255, 0);
+    box-shadow: 0 4px 16px 0 rgba(39, 153, 214, 0.25);
+    border-radius: 16px;
+  }
+   
+  .RN1 button:hover {
+    background: rgb(255, 0, 0);
+    box-shadow: 0 4px 16px 0 rgba(39, 153, 214, 0.25);
+    border-radius: 16px;
+  }
+  #RL p{
+    text-align: center;
+    color: hotpink;
+  }
+  .photo1 {
+    position: fixed;
+    top: 33%;
+    left: 17%;
+  }
+  .RD2{
+    font-family:sans-serif ;
+    position: fixed;
+    top: 46%;
+    left: 39%;
+    border-radius: 4px;
+    transition: border-radius 0.5s ease-in;
+  }
+  .RD2 button:hover {
+    background: rgb(77, 255, 0);
+    box-shadow: 0 4px 16px 0 rgba(39, 153, 214, 0.25);
+    border-radius: 16px;
+  }
+  .RD2 button{
+    padding: 22px 34px;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #fff;
+    background-color: rgb(0, 200, 255);
+    box-shadow: 0 4px 8px 0 rgba(39, 153, 214, 0.35);
+    cursor: pointer;
+    transition: border-radius 0.5s ease-in;
+  }
+    .RD4{
+      font-family:sans-serif ;
+       position: fixed;
+      top: 42%;
+      left: 43%;
+      border-radius: 4px;
+      transition: border-radius 0.5s ease-in;
+    }
+    .RD4 button:hover {
+      background: rgb(77, 255, 0);
+      box-shadow: 0 4px 16px 0 rgba(39, 153, 214, 0.25);
+      border-radius: 36px;
+    }
+    .RD4 button{
+      padding: 42px 54px;
+      border: none;
+      border-radius: 4px;
+      font-size: 14px;
+      color: #fff;
+      background-color: rgb(0, 200, 255);
+      box-shadow: 0 4px 8px 0 rgba(39, 153, 214, 0.35);
+      cursor: pointer;
+      transition: border-radius 0.5s ease-in;
+      }
+      .photo2 {
+        position: fixed;
+        top: 20%;
+        left: 12%;
+      }
+        .photo3 {
+          position: fixed;
+          top: 20%;
+          left: 62%;
+          transform: scaleX(-1);
+        }
+        .RD5{
+          font-family:sans-serif ;
+          position: fixed;
+          top: 45%;
+          left: 45%;
+          border-radius: 4px;
+          transition: border-radius 0.5s ease-in;
+        }
+        .RD5 button:hover {
+          background: rgb(77, 255, 0);
+          box-shadow: 0 4px 16px 0 rgba(39, 153, 214, 0.25);
+          border-radius: 36px;
+        }
+        .RD5 button{
+          padding: 32px 34px;
+          border: none;
+          border-radius: 4px;
+          font-size: 14px;
+          color: #fff;
+          background-color: rgb(0, 200, 255);
+          box-shadow: 0 4px 8px 0 rgba(39, 153, 214, 0.35);
+          cursor: pointer;
+          transition: border-radius 0.5s ease-in;
+          }
+            .photo4 {
+              position: fixed;
+              top: 17%;
+              left: 12%;
+            }
